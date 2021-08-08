@@ -1,5 +1,9 @@
 # json-web-token
 
+<a href="https://gitmoji.dev">
+  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
+</a>
+
 <h1 align="center">Hi 👋, I'm Jesus Sanchez</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
